@@ -16,8 +16,8 @@ The app uses planned-day labels (for example, Day 2), not calendar dates. It doe
 
 ## Requirements
 
-- Flutter SDK (project archive generated with Flutter 3.44.0).
-- Dart SDK compatible with the constraint in `pubspec.yaml` (`^3.12.0`).
+- Flutter SDK with a Dart SDK satisfying the constraint in `pubspec.yaml` (`^3.12.0`).
+- Check your installed versions with `flutter --version` before running the project.
 - Android Studio or VS Code with the Flutter and Dart extensions.
 - An Android emulator or an Android device with USB debugging enabled.
 
@@ -86,6 +86,31 @@ The app currently has one main screen: `HomeScreen`.
 - Task changes are saved after add, edit, delete, and completion-state updates.
 
 This is local device storage; clearing app data or uninstalling the app may remove the saved tasks.
+
+
+## App screenshots
+
+The screenshots below show the PocketPlan home screen, a completed task, and the subject filters.
+
+### Home screen
+
+![PocketPlan home screen](assets/screenshots/home-screen.png)
+
+### Completed task
+
+![PocketPlan with a completed task](assets/screenshots/completed-task.png)
+
+### Maths subject filter
+
+![PocketPlan Maths filter](assets/screenshots/maths-filter.png)
+
+### Design subject filter
+
+![PocketPlan Design filter](assets/screenshots/design-filter.png)
+
+### Code subject filter
+
+![PocketPlan Code filter](assets/screenshots/code-filter.png)
 
 ## Validation and evidence checklist
 
