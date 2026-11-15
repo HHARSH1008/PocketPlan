@@ -88,9 +88,23 @@ The app currently has one main screen: `HomeScreen`.
 This is local device storage; clearing app data or uninstalling the app may remove the saved tasks.
 
 
-## App screenshots
+## 📱 App Screenshots
 
-The screenshots below show the PocketPlan home screen, a completed task, and the subject filters.
+### 1. Home Screen
+![Home Screen](assets/screenshots/home-screen.png)
+
+### 2. Completed Task
+![Completed Task](assets/screenshots/completed-task.png)
+
+### 3. Maths Filter
+![Maths Filter](assets/screenshots/maths-filter.png)
+
+### 4. Design Filter
+![Design Filter](assets/screenshots/design-filter.png)
+
+### 5. Code Filter
+![Code Filter](assets/screenshots/code-filter.png)
+
 
 ### Home screen
 
